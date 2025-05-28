@@ -86,6 +86,7 @@ This project automates the process of searching, extracting, and reporting job p
 
 ## Credits
 
+- [Abu Bakr Soliman, MSc](https://www.linkedin.com/in/bakrianoo/)
 - [CrewAI](https://github.com/Vision-CAIR/crewai)
 - [Tavily](https://docs.tavily.com/)
 - [ScrapeGraph](https://scrapegraph.com/)
