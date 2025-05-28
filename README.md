@@ -25,7 +25,7 @@ This project automates the process of searching, extracting, and reporting job p
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/YOUR-USERNAME/ai-job-crew-automation.git
+    git clone https://github.com/AhmedKafrana/ai-job-crew-automation.git
     cd ai-job-crew-automation
     ```
 
